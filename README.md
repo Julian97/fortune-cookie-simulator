@@ -33,7 +33,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Julian97/fortune-cookie-simulator">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://thumbs.dreamstime.com/b/fortune-cookie-isolated-white-background-34433923.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Fortune Cookie Simulator</h3>
@@ -168,15 +168,15 @@ Project Link: [https://github.com/Julian97/fortune-cookie-simulator](https://git
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Julian97/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/Julian97/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Julian97/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/Julian97/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/Julian97/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/Julian97/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Julian97/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/Julian97/repo/issues
-[license-shield]: https://img.shields.io/github/license/Julian97/repo.svg?style=for-the-badge
-[license-url]: https://github.com/Julian97/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Julian97/fortune-cookie-simulator.svg?style=for-the-badge
+[contributors-url]: https://github.com/Julian97/fortune-cookie-simulator/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Julian97/fortune-cookie-simulator.svg?style=for-the-badge
+[forks-url]: https://github.com/Julian97/fortune-cookie-simulator/network/members
+[stars-shield]: https://img.shields.io/github/stars/Julian97/fortune-cookie-simulator.svg?style=for-the-badge
+[stars-url]: https://github.com/Julian97/fortune-cookie-simulator/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Julian97/fortune-cookie-simulator.svg?style=for-the-badge
+[issues-url]: https://github.com/Julian97/fortune-cookie-simulator/issues
+[license-shield]: https://img.shields.io/github/license/Julian97/fortune-cookie-simulator.svg?style=for-the-badge
+[license-url]: https://github.com/Julian97/fortune-cookie-simulator/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/Julian97
+[linkedin-url]: https://www.linkedin.com/in/juliancheung97/
