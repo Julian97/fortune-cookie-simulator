@@ -85,7 +85,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+Crack open some virtual fortune cookies with my Python script here! Feel free to create your own customised list of fortunes into a .csv file. I have included an example csv file in the repo so you can use it right away if you prefer.
+
+Screenshots
+![screenshot 1](https://github.com/Julian97/fortune-cookie-simulator/blob/main/photo_2021-01-27_14-55-22.jpg?raw=true)
+![screenshot 2](https://github.com/Julian97/fortune-cookie-simulator/blob/main/photo_2021-01-27_14-55-23.jpg?raw=true)
 
 
 ### Built With
@@ -119,6 +123,7 @@ Have Python 3 installed on your device.
 3. Run the code.
 4. Follow on-screen instructions.
 
+![replace the filepath with yours in line 6](https://github.com/Julian97/fortune-cookie-simulator/blob/main/photo_2021-01-27_15-22-47.jpg?raw=true)
 
 <!-- ROADMAP -->
 ## Roadmap
