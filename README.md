@@ -101,11 +101,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Have Python 3 installed on your device.
 
 ### Installation
 
@@ -113,20 +109,15 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    git clone https://github.com/Julian97/fortune-cookie-simulator.git
    ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
+1. Download my example csv file, which contains a list of fortunes to draw from.
+2. Change the filepath in line 6 (see screenshot).
+3. Run the code.
+4. Follow on-screen instructions.
 
 
 <!-- ROADMAP -->
@@ -152,7 +143,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the BSD 2-Clause "Simplified" License. See `LICENSE` for more information.
 
 
 
@@ -168,9 +159,8 @@ Project Link: [https://github.com/Julian97/fortune-cookie-simulator](https://git
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
+* [StackOverflow](https://stackoverflow.com/)
+* [othneildrew](https://github.com/othneildrew/Best-README-Template)
 
 
 
