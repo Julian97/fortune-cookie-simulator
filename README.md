@@ -44,7 +44,7 @@
     <a href="https://github.com/Julian97/fortune-cookie-simulator"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Julian97/fortune-cookie-simulator">View Demo</a>
+    <a href="https://www.twitch.tv/videos/889835374">View Demo</a>
     ·
     <a href="https://github.com/Julian97/fortune-cookie-simulator/issues">Report Bug</a>
     ·
@@ -102,7 +102,7 @@ Screenshots
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
+To get a local copy up and running, follow these simple steps.
 
 ### Prerequisites
 
